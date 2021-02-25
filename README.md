@@ -1,0 +1,1 @@
+This is a simple script to be able to whitelist ip's coming into your website. This could be usefull if you make a authentication system in an app and you would like to be able to only let the people that are whitelisted in it. If it echo's success then let them acces, and if it echo's error then you dont let them.
